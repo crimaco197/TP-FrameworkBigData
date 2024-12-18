@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -10,3 +11,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+=======
+code/clean_forum.tsv
+data/purchases.txt
+code/forum_node.tsv
+>>>>>>> 6dcaf1b (init)
